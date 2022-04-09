@@ -112,6 +112,7 @@ const mike = new Person(2, 'Mike Jordan')
 class Employee extends Person {
   position: string
 
+
   constructor(id: number, name: string, position: string) {
     super(id, name)
     this.position = position
@@ -135,4 +136,4 @@ strArray.push(1) // Throws error
 // npx create-react-act-app . --template type
 // create Headers.tsx file
 
-D:\back_up\new1\typescript.txt
+
