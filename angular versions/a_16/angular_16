@@ -1,4 +1,4 @@
-the angular16 release with a lot of new features include angular signals this can be a game changer for angular angular signals add reactivity to the angular applications
+May 3, 2023 · the angular16 release with a lot of new features include angular signals this can be a game changer for angular angular signals add reactivity to the angular applications
 angular dependes on change detection and zone.js to detect changes anf update the view
 the zone.js is a third party libary .it works wll with angular applications but as angular applications scale it also becomes the bottleneck impacting the performance
 how change detechtion workd in angular?
